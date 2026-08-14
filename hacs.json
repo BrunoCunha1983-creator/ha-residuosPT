@@ -1,5 +1,6 @@
 {
   "name": "Recolha de Resíduos Portugal",
+  "country": "PT",
   "content_in_root": false,
   "render_readme": true
 }
