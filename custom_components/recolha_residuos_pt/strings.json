@@ -1,0 +1,42 @@
+{
+  "title": "Recolha de Resíduos Portugal",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Localização e operador",
+        "description": "Indique a zona de recolha. Os calendários variam por município e, em alguns casos, por bairro.",
+        "data": {
+          "municipality": "Município",
+          "locality": "Localidade / bairro (opcional)",
+          "operator": "Operador / sistema de resíduos"
+        }
+      },
+      "schedule": {
+        "title": "Dias de recolha",
+        "description": "Selecione os dias semanais aplicáveis à sua morada. Pode deixar um fluxo sem dias se não tiver recolha porta-a-porta.",
+        "data": {
+          "yellow": "Amarelo — plástico e metal",
+          "blue": "Azul — papel e cartão",
+          "green": "Verde — vidro",
+          "brown": "Castanho — biorresíduos",
+          "residual": "Indiferenciado — lixo comum"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Alterar dias de recolha",
+        "description": "Atualize os dias semanais de cada contentor.",
+        "data": {
+          "yellow": "Amarelo — plástico e metal",
+          "blue": "Azul — papel e cartão",
+          "green": "Verde — vidro",
+          "brown": "Castanho — biorresíduos",
+          "residual": "Indiferenciado — lixo comum"
+        }
+      }
+    }
+  }
+}
