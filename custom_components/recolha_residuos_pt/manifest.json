@@ -1,0 +1,12 @@
+{
+  "domain": "recolha_residuos_pt",
+  "name": "Recolha de Resíduos Portugal",
+  "codeowners": ["@BrunoCunha1983-creator"],
+  "config_flow": true,
+  "documentation": "https://github.com/BrunoCunha1983-creator/ha-residuosPT",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/BrunoCunha1983-creator/ha-residuosPT/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
