@@ -39,3 +39,13 @@ A arquitetura foi preparada para evolução para adaptadores automáticos por op
 - Cinzento/preto: indiferenciado (a cor física pode variar localmente)
 
 Os calendários e métodos de recolha são locais e podem variar por município, freguesia/bairro e operador.
+
+## Manutenção
+
+A validação HACS inclui os ficheiros e os metadados do repositório no GitHub.
+Consulte o [guia de validação HACS](docs/HACS_VALIDATION.md) para configurar a
+descrição, os tópicos e confirmar o resultado do workflow.
+
+## Licença
+
+Este projeto é disponibilizado sob a [licença MIT](LICENSE).
